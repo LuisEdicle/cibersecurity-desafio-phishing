@@ -3,7 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
-- setoolkit
+- Zphisher
 
 ### Configurando o Phishing no Kali Linux
 
